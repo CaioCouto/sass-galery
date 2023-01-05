@@ -1,5 +1,7 @@
 # Galery
 
+preview: https://caiocouto.github.io/sass-galery/
+
 **pt.** Este projeto trata-se de um estudo em ***SASS***. É uma página web simples e responsiva, que tem todo o seu *css* desenvolvido utilizando *sass*.
 
 **en.** This project is a study on ***SASS***. It's a simple and responsive web page, which has all of its *css* built using *sass*.
