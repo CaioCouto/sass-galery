@@ -137,55 +137,55 @@ body {
   padding: 1.4rem;
 }
 .main-card--1 {
-  background-image: url("/static/img/animais.jpg");
+  background-image: url("../img/animais.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .main-card--2 {
-  background-image: url("/static/img/arquitetura.jpg");
+  background-image: url("../img/arquitetura.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .main-card--3 {
-  background-image: url("/static/img/cidade.jpg");
+  background-image: url("../img/cidade.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .main-card--4 {
-  background-image: url("/static/img/decoracao.jpg");
+  background-image: url("../img/decoracao.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .main-card--5 {
-  background-image: url("/static/img/esportes.jpg");
+  background-image: url("../img/esportes.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .main-card--6 {
-  background-image: url("/static/img/natureza.jpg");
+  background-image: url("../img/natureza.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .main-card--7 {
-  background-image: url("/static/img/paisagem.jpg");
+  background-image: url("../img/paisagem.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .main-card--8 {
-  background-image: url("/static/img/pessoas.jpg");
+  background-image: url("../img/pessoas.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .main-card--9 {
-  background-image: url("/static/img/refeicoes.jpg");
+  background-image: url("../img/refeicoes.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
