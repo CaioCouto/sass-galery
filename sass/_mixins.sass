@@ -1,0 +1,31 @@
+@use 'variables'
+
+@mixin flex-container
+    display: flex
+    align-items: center
+
+@mixin background-image($img, $background-position:center)
+    background-image: url('/static/img/#{$img}')
+    background-repeat: no-repeat
+    background-position: $background-position
+    background-size: cover
+
+@mixin for-mobile
+    @media (max-width: variables.$phone-screen-max)
+        @content
+
+@mixin for-between-mobile-and-tablet-landscape
+    @media (max-width: variables.$tablet-landscape-screen-min)
+        @content
+
+@mixin for-tablet-portrait
+    @media (min-width: variables.$tablet-portrait-screen-min)
+        @content
+
+@mixin for-tablet-landscape
+    @media (min-width: variables.$tablet-landscape-screen-min)
+        @content
+
+@mixin for-desktop
+    @media (min-width: variables.$desktop-screen-min)
+        @content
